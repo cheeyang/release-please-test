@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/cheeyang/release-please-test/compare/v0.2.0...v0.3.0) (2022-11-03)
+
+
+### Features
+
+* dummy feature 3 ([#9](https://github.com/cheeyang/release-please-test/issues/9)) ([5e232fb](https://github.com/cheeyang/release-please-test/commit/5e232fbcc9823fec5dbc14972a04a8be13ca7436))
+
+
+### Miscellaneous Chores
+
+* add release-pleaese last release sha ([#11](https://github.com/cheeyang/release-please-test/issues/11)) ([6f9a708](https://github.com/cheeyang/release-please-test/commit/6f9a708167e590a8d6e5785ddfe101b15f62dd50))
+
 ## [0.2.0](https://github.com/cheeyang/release-please-test/compare/v0.2.0...v0.2.0) (2022-11-03)
 
 
