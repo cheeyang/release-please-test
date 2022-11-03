@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/cheeyang/release-please-test/compare/v0.7.0...v0.8.0) (2022-11-03)
+
+
+### Features
+
+* dummy feature 5 ([#17](https://github.com/cheeyang/release-please-test/issues/17)) ([9d0d2f6](https://github.com/cheeyang/release-please-test/commit/9d0d2f61f04c9247f0f1c625cdc05161c5c84f51))
+
 ## [0.7.0](https://github.com/cheeyang/release-please-test/compare/v0.3.0...v0.7.0) (2022-11-03)
 
 
