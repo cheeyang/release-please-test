@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.7.0](https://github.com/cheeyang/release-please-test/compare/v0.3.0...v0.7.0) (2022-11-03)
+
+
+### Features
+
+* dummy feature 4 without removing last-release-sha ([#12](https://github.com/cheeyang/release-please-test/issues/12)) ([c3a20a1](https://github.com/cheeyang/release-please-test/commit/c3a20a1ca1f1ab5f00871f42684db8153caa2357))
+
+
+### Miscellaneous Chores
+
+* release 0.7.0 ([#16](https://github.com/cheeyang/release-please-test/issues/16)) ([4144e04](https://github.com/cheeyang/release-please-test/commit/4144e046e95c23395a1307fa2a58abd0f26a4906))
+* remove last-release-sha from release-please.yml ([#15](https://github.com/cheeyang/release-please-test/issues/15)) ([d71843c](https://github.com/cheeyang/release-please-test/commit/d71843cd11dce55128e6b5d8220c521c371d7e04))
+* update package.json with latest release number ([#14](https://github.com/cheeyang/release-please-test/issues/14)) ([ac361fb](https://github.com/cheeyang/release-please-test/commit/ac361fb3608730517eabc9c15ccdf0c39e2d764e))
+
 ## [0.3.0](https://github.com/cheeyang/release-please-test/compare/v0.2.0...v0.3.0) (2022-11-03)
 
 
