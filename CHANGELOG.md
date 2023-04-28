@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.0](https://github.com/cheeyang/release-please-test/compare/v0.7.0...v0.8.0) (2023-04-28)
+
+
+### Features
+
+* dummy feature 5 ([#17](https://github.com/cheeyang/release-please-test/issues/17)) ([9d0d2f6](https://github.com/cheeyang/release-please-test/commit/9d0d2f61f04c9247f0f1c625cdc05161c5c84f51))
+* test stepsize tooling' ([#25](https://github.com/cheeyang/release-please-test/issues/25)) ([99dc402](https://github.com/cheeyang/release-please-test/commit/99dc40210493678c22caf3b2fcd19ea8f9eac16e))
+
 ## [0.7.0](https://github.com/cheeyang/release-please-test/compare/v0.3.0...v0.7.0) (2022-11-03)
 
 
